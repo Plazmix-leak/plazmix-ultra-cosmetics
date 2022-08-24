@@ -1,0 +1,8 @@
+name: PlazmixUltraCosmetics
+version: 0.0.1
+authors: [iSach, Krashe85, Frotter]
+main: net.plazmix.ultracosmetics.UltraCosmetics
+
+depend:
+  - PlazmixAPI
+
